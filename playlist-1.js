@@ -4,7 +4,8 @@ const playlist = [
   'What a Wonderful World',
   'At Last',
   'Three Little Birds',
-  'The Way You Look Tonight'
+  'The Way You Look Tonight',
+  'The Power Of Love'
 ];
 
 function  createListItems(arr) {
